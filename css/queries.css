@@ -147,7 +147,7 @@
     opacity: 0;
   }
 
-  .responsive  {
+  .responsive .fl-nav {
     display: block;
     position: relative;
   }
