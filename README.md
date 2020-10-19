@@ -1,1 +1,1 @@
-# goodfood
+Adaptive, crossbrowser, jQuery
