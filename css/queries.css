@@ -151,6 +151,8 @@ nav {
     display: block;
    background-color: #434648;
    width: 95vw;
+  position: relative;
+   z-index: 1;
   }
 
   .responsive .main-nav {
