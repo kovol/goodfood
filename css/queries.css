@@ -147,9 +147,10 @@
     opacity: 0;
   }
 
-  .responsive .fl-nav {
+nav {
     display: block;
-    position: relative;
+   background-color: #434648;
+   width: 95vw;
   }
 
   .responsive .main-nav {
