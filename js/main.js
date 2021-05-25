@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   
-   // Nav-icon change form and open/close nav
+   // Nav-icon changes form and opens/closes nav
  
   $(".nav-icon").click(function() {
     $(".nav-icon").toggleClass("change");
